@@ -31,7 +31,7 @@ Utilize `import` em Node.js 18+ ou bundlers modernos (Vite, Webpack, etc).
 ## Uso com JavaScript (ES Modules)
 
 ```javascript
-import { cpf, cnpj } from 'cpf-cnpj-validator';
+import { cpf, cnpj } from '@artrsousa/cpf-cnpj-validator';
 
 // CPF
 cpf.isValid('313.402.809-30');
@@ -70,7 +70,7 @@ import {
   type CNPJ,
   type CpfGenerateOptions,
   type CnpjGenerateOptions
-} from 'cpf-cnpj-validator';
+} from '@artrsousa/cpf-cnpj-validator';
 
 const cpfValue: string = '313.402.809-30';
 

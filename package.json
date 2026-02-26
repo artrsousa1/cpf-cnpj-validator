@@ -30,6 +30,10 @@
     "pessoa física",
     "pessoa jurídica"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artrsousa1/cpf-cnpj-validator.git"
+  },
   "author": "",
   "license": "MIT",
   "devDependencies": {
